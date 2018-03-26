@@ -127,3 +127,7 @@ Para ver el wireframe haz click [acá](https://marvelapp.com/137f6316)
 ---
 [Macarena Araos, Portafólio](https://macaraos.github.io/Portafolio/)
 
+---
+
+_Desarrollado para Laboratoria_
+
