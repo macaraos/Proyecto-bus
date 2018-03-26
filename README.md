@@ -124,4 +124,6 @@ Se realizó un tótem de tamaño real donde fue testeado en los mismos terminale
 
 Para ver el wireframe haz click [acá](https://marvelapp.com/137f6316)
 
+---
+[Macarena Araos, Portafólio](https://macaraos.github.io/Portafolio/)
 
