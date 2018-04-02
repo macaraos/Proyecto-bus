@@ -109,7 +109,7 @@ Este wieframe fue testeado con un test de usabilidad
 
 Donde se quedo conforme con el resultado. [Haz click acá para verlo](https://marvelapp.com/137f6316/screen/37792153)
 
-# Extra
+## Extra
 
 Dentro de esta investigacion, se propuso un segundo proyecto, que es el de un Tótem. Tótem que estaría en los terminales de buses con mas afluencia de gente, todo para facilitarle la compra. Este tendría la funcionalidad de ver la información del viaje en la pantalla (informacion de fecha, hora, anden, calificacion del servicio, destino). También se podría imprimer el ticket ya sea colocando código QR como numero de ticket.
 
@@ -130,6 +130,3 @@ Para ver el wireframe haz click [acá](https://marvelapp.com/137f6316)
 [Macarena Araos, Portafólio](https://macaraos.github.io/Portafolio/)
 
 ---
-
-_Desarrollado para Laboratoria_
-
