@@ -1,9 +1,9 @@
 # Experiencia en bus
 
 ### Desarrollado para [Laboratoria](https://www.laboratoria.la/)
-
-![Inicio](https://macaraos.github.io/Proyecto-bus/img/inicio.PNG)
 ---
+![Inicio](https://macaraos.github.io/Proyecto-bus/img/inicio.PNG)
+
 ## Objetivo
 
 El objetivo es conocer y mejorar la experiencia de un usuario al momento viajar en bus, ya sea con los horarios, tickets, embarques, etc.
