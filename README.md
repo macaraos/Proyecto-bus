@@ -1,4 +1,4 @@
-# Experiencia del viaje en bus
+# Experiencia en bus
 
 ### Desarrollado para [Laboratoria](https://www.laboratoria.la/)
 
