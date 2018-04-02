@@ -1,6 +1,6 @@
 # Experiencia en bus
 
-### Desarrollado para [Laboratoria](https://www.laboratoria.la/)
+##### Desarrollado para [Laboratoria](https://www.laboratoria.la/)
 ---
 ![Inicio](https://macaraos.github.io/Proyecto-bus/img/inicio.PNG)
 
